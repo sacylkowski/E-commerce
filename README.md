@@ -7,7 +7,7 @@
   To install required dependecies, use: npm install 
 
   ## Usage
-  To run the app,  Run node server.js to start the application.  Use a programe like Insomnia or Postman to test your routes using http://localhost:3001/api/___.   
+  To run the app, you need to log into mysql, and source db/schema.sql.  Then quit to return back to your command line.  Run npm run seed to seed the examples, and then npm start to start the application.  Use a program like Insomnia or Postman to test your routes using http://localhost:3001/api/___.   
 
   <img src="Example-picture.png" alt="image of program running" width="1206" />
   
